@@ -2,15 +2,11 @@
   "name": "api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
-  "engines": {
-    "node": "21.7.3"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
